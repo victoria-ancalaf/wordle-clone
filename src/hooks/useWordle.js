@@ -100,7 +100,6 @@ const useWordle = (solution) => {
         return;
       }
       const formatted = formatGuess();
-      console.log(formatted);
       addNewGuess(formatted);
     }
 
