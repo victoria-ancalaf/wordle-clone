@@ -1,1 +1,2 @@
-# A Wordle clone with React
+# Wordle Clone
+### A Wordle clone using React
